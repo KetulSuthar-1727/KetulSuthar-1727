@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:161B33,70:24204A,100:0B1020&height=210&section=header&text=KETUL%20SUTHAR&fontSize=48&fontColor=BB9AF7&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20BACKEND%20%E2%80%A2%20C%2B%2B%20%2F%20SYSTEMS&descAlignY=61&descSize=14&descColor=7DCFFF&animation=fadeIn" width="100%"/>
 
+### `VENI. VIDI. VICI.`
 ### `Build. Break. Learn. Repeat.`
 
 <br/>
@@ -86,7 +87,7 @@ Right now, I'm strengthening my foundations in **C++, Data Structures & Algorith
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/TypeORM-161B33?style=for-the-badge&logo=typeorm&logoColor=F7768E" />
 <img src="https://img.shields.io/badge/REST%20API-161B33?style=for-the-badge&logo=fastapi&logoColor=7DCFFF" />
@@ -162,8 +163,6 @@ A horizontally-scaled URL shortening service designed to explore real-world back
 
 **🧰 Stack**
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -172,105 +171,12 @@ A horizontally-scaled URL shortening service designed to explore real-world back
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
 
-<br/><br/>
-
+<br/>
+<p></p>
+<div align="center">
 <a href="https://github.com/KetulSuthar-1727/shortlink">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-161B33?style=for-the-badge&logo=github&logoColor=BB9AF7" />
 </a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%" border="1" cellpadding="18" cellspacing="0">
-<tr>
-<td>
-
-<div align="center">
-
-### 🛒 SeaBasket
-
-**Full-Stack E-Commerce Platform**
-
-</div>
-
-A full-stack e-commerce application covering authentication, product workflows, shopping functionality, and order processing.
-
-**⚡ Engineering Highlights**
-
-* JWT authentication + OTP verification
-* Password reset + automated email notifications
-* REST APIs using Express.js + TypeORM
-* MySQL-backed application architecture
-* Product search, filtering, reviews + pagination
-* Redux Toolkit for global state management
-
-**🧰 Stack**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/KetulSuthar-1727">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B33?style=for-the-badge&logo=github&logoColor=BB9AF7" />
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%" border="1" cellpadding="18" cellspacing="0">
-<tr>
-<td>
-
-<div align="center">
-
-### 📈 House Price Prediction
-
-**Regression-Based Machine Learning Model**
-
-</div>
-
-A machine-learning project exploring preprocessing, feature engineering, model evaluation, and visualization.
-
-**⚡ Engineering Highlights**
-
-* Data preprocessing + feature engineering
-* Regression-based prediction
-* Model evaluation using **MAE** and **R²**
-* Data visualization with Matplotlib
-* End-to-end machine-learning workflow
-
-**🧰 Stack**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/KetulSuthar-1727">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B33?style=for-the-badge&logo=github&logoColor=BB9AF7" />
-</a>
-
 </div>
 
 </td>
@@ -297,49 +203,12 @@ A machine-learning project exploring preprocessing, feature engineering, model e
 &nbsp;
 <img src="https://img.shields.io/badge/1560%20Contest%20Rating-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=0B1020" />
 
-<br/><br/>
+<br/>
+<p></p>
 
 <a href="https://leetcode.com/u/Ketul_J_Suthar/">
 <img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-161B33?style=for-the-badge&logo=leetcode&logoColor=F0DB4F" />
 </a>
-
-</div>
-
-<br/>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KetulSuthar-1727&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KetulSuthar-1727&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetulSuthar-1727&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KetulSuthar-1727&bg_color=0B1020&color=7DCFFF&line=BB9AF7&point=F7768E&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -365,42 +234,6 @@ A machine-learning project exploring preprocessing, feature engineering, model e
 * Participated in code reviews, debugging, and performance optimization within an Agile team
 
 </details>
-
-<br/>
-
----
-
-# 🧠 Currently Strengthening
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-BB9AF7?style=for-the-badge&logo=cplusplus&logoColor=0B1020" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Low--Level%20Design-7AA2F7?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/System%20Design-7DCFFF?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Systems%20Engineering-9D7CD8?style=for-the-badge" />
-
-</div>
-
-<br/>
-
----
-
-# ⚙️ Engineering Principles
-
-<div align="center">
-
-|                🔍 Understand                |              📏 Measure             |                      🧩 Simplify                     |
-| :-----------------------------------------: | :---------------------------------: | :--------------------------------------------------: |
-| Understand the system before optimizing it. | Measure performance with real data. | Prefer simple solutions over unnecessary complexity. |
-
-|                 🧱 Maintain                |              📚 Fundamentals              |
-| :----------------------------------------: | :---------------------------------------: |
-| Write code for the next person reading it. | Frameworks change. Fundamentals compound. |
-
-</div>
 
 <br/>
 
