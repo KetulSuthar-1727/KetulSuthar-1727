@@ -37,7 +37,7 @@
 
 <img src="https://img.shields.io/badge/250%2B%20DSA%20Problems-BB9AF7?style=flat-square&logo=leetcode&logoColor=0B1020" />
 &nbsp;
-<img src="https://img.shields.io/badge/1600%20Contest%20Rating-7AA2F7?style=flat-square&logo=leetcode&logoColor=0B1020" />
+<img src="https://img.shields.io/badge/1700%20Contest%20Rating-7AA2F7?style=flat-square&logo=leetcode&logoColor=0B1020" />
 &nbsp;
 <img src="https://img.shields.io/badge/Backend%20%26%20Systems-7DCFFF?style=flat-square&logo=linux&logoColor=0B1020" />
 
@@ -201,7 +201,7 @@ A horizontally-scaled URL shortening service designed to explore real-world back
 
 <img src="https://img.shields.io/badge/250%2B%20Problems%20Solved-BB9AF7?style=for-the-badge&logo=leetcode&logoColor=0B1020" />
 &nbsp;
-<img src="https://img.shields.io/badge/1600%20Contest%20Rating-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=0B1020" />
+<img src="https://img.shields.io/badge/1700%20Contest%20Rating-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=0B1020" />
 
 <br/>
 <p></p>
